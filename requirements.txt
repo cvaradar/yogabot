@@ -21,9 +21,6 @@ ffmpeg-python==0.2.0
 # Async utilities (for Jupyter compatibility if needed)
 nest_asyncio==1.5.8
 
-# HTTP client for newer dependencies
-httpx==0.27.0
-
 # For Azure Bot Framework integration (if needed)
 botbuilder-core==4.15.0
 botbuilder-schema==4.15.0
