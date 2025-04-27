@@ -1,0 +1,30 @@
+# Telegram bot framework
+python-telegram-bot==20.3
+
+# Azure Cognitive Services SDKs
+azure-cognitiveservices-vision-computervision==0.9.0
+azure-cognitiveservices-speech==1.28.0
+msrest==0.7.1
+
+# Azure OpenAI SDK
+openai==1.14.2
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# Audio handling for speech conversion
+pydub==0.25.1
+
+# Audio conversion dependencies (pydub requires ffmpeg on system)
+ffmpeg-python==0.2.0
+
+# Async utilities (for Jupyter compatibility if needed)
+nest_asyncio==1.5.8
+
+# HTTP client for newer dependencies
+httpx==0.27.0
+
+# For Azure Bot Framework integration (if needed)
+botbuilder-core==4.15.0
+botbuilder-schema==4.15.0
+aiohttp==3.8.1
